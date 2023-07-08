@@ -3,9 +3,10 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
     
 }
-h3{
+nav > h3{
     font-family: 'Belanosima', sans-serif;
     font-size: 45px;
     font-weight: bold;
@@ -34,4 +35,15 @@ nav a {
     color: white;
     padding: 15px 35px;
     
+}
+.bgcls{
+    background-color: rgb(229, 229, 249);
+}
+.banner{
+    padding: 30px 30px 30px 200px;
+    display: flex;
+    align-items: center;
+}
+#profile{
+    width: 600px;
 }
