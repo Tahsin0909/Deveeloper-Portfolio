@@ -86,3 +86,12 @@ nav a {
     background-color: antiquewhite;
     margin: 130px 0px;
 }
+.next-about{
+    display: flex;
+    justify-content: space-around;
+}
+.fucku{
+    text-align: center;
+    padding: 30px 150px;
+    
+}
